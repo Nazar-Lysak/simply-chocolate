@@ -112,3 +112,5 @@
 - 🛠 [iLoveIMG](https://www.iloveimg.com/) – інструменти для обробки зображень  
 - ✅ [W3C Validator](https://validator.w3.org/) – перевірка HTML-коду на помилки  
 - 📖 [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) – офіційна документація HTML
+- ✅ [Can I include](https://caninclude.onrender.com/) – Чи можу я вставити дочірній тег у батьківський тег?
+- 📖 [css.in.ua](https://css.in.ua/) – Український веб-довідник
